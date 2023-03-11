@@ -1,4 +1,3 @@
-# Aerofit-descriptive-statistics-and-probability
 This is the case study from Woolf University(Scaler) as part of my Master Science in AIML, here is the details of the case study which you need to read before proceeding with my notebook, here im not attaching the dataset as im not allowed to provided the data in the public domains, but you can find dataset of some of casestudies through kaggle or any other reliable datasources.
 
 
